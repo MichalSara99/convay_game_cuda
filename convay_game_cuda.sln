@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "convay_game_cuda", "convay_game_cuda.vcxproj", "{92AFD89C-D943-4189-BE1C-7BE69C9A5C37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92AFD89C-D943-4189-BE1C-7BE69C9A5C37}.Debug|x64.ActiveCfg = Debug|x64
+		{92AFD89C-D943-4189-BE1C-7BE69C9A5C37}.Debug|x64.Build.0 = Debug|x64
+		{92AFD89C-D943-4189-BE1C-7BE69C9A5C37}.Release|x64.ActiveCfg = Release|x64
+		{92AFD89C-D943-4189-BE1C-7BE69C9A5C37}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A4F3E0-87F4-4AFF-9C28-83CB7828D2B6}
+	EndGlobalSection
+EndGlobal
